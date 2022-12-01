@@ -1,0 +1,36 @@
+
+div {
+   font-family: Verdana;
+}
+
+
+
+h1 {
+    font-size: 22px;
+    text-align: center;
+    }
+
+ h2 {
+    font-size: 18px;
+    text-align: center;
+    font-weight: normal;
+    color:#88100f;
+ }   
+
+ h3 {
+    font-size: 16px;
+    font-family: Verdana;
+    text-decoration: underline;
+    color:#88100f;
+    
+
+ }
+
+ p {
+   font-size: 14px;
+   line-height: 28px;
+ }
+
+
+ 
+
